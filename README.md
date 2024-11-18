@@ -6,7 +6,7 @@ This project, **Mobile Device Usage and User Behavior**, was developed by **Kaoh
 ---
 
 #### Mission  
-The project seeks to assist mobile device manufacturers and service providers by answering the following questions:  
+The project seeks to assist people on the best operating system for them by answering the following questions:  
 
 1. **Can user behavior data predict their preferred operating system?**  
 2. **What key factors differentiate iOS users from Android users?**  
